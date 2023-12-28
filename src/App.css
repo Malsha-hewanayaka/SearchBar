@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: block;
+  position: absolute;
+  min-width: 160px;
+  padding: 12px 16px;
+  z-index: 1;
+}
